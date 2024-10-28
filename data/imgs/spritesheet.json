@@ -1,0 +1,135 @@
+{
+	"frames": {
+		"inventory-background.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 626,
+				"h": 417
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 626,
+				"h": 417
+			},
+			"sourceSize": {
+				"w": 626,
+				"h": 417
+			}
+		},
+		"inventory-icon.png": {
+			"frame": {
+				"x": 1,
+				"y": 420,
+				"w": 114,
+				"h": 100
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 114,
+				"h": 100
+			},
+			"sourceSize": {
+				"w": 114,
+				"h": 100
+			}
+		},
+		"screwdriver-in-inventory.png": {
+			"frame": {
+				"x": 117,
+				"y": 420,
+				"w": 100,
+				"h": 100
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 100,
+				"h": 100
+			},
+			"sourceSize": {
+				"w": 100,
+				"h": 100
+			}
+		},
+		"workshop-screwdriver.png": {
+			"frame": {
+				"x": 219,
+				"y": 420,
+				"w": 43,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 43,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 43,
+				"h": 85
+			}
+		},
+		"workshop-screwdriver-blocked.png": {
+			"frame": {
+				"x": 264,
+				"y": 420,
+				"w": 43,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 43,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 43,
+				"h": 85
+			}
+		},
+		"workshop-vise.png": {
+			"frame": {
+				"x": 309,
+				"y": 420,
+				"w": 56,
+				"h": 79
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 56,
+				"h": 79
+			},
+			"sourceSize": {
+				"w": 56,
+				"h": 79
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 628,
+			"h": 521
+		},
+		"scale": "1"
+	}
+}
